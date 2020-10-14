@@ -16,8 +16,8 @@ Here are some ideas to get you started:
 -->
 
 
-<details> 
- <summary>🤖 <b>My programming stats</b>: </summary>
+
+
 <br>
 
 <!--START_SECTION:waka-->
@@ -68,4 +68,4 @@ JavaScript               1 repos             █░░░░░░░░░░�
 
 <!--END_SECTION:waka-->
 
-</details>
+
