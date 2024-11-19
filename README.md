@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **gunjan.mtbpaul@gmail.com**
 
-- ⚡ Fun fact **I love to cook new food from different countries**
+- ⚡ Fun fact **I love to cook new dish from different countries**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
