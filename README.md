@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Gunjan Paul</h1>
-<h3 align="center">A passionate Computer vision and Software Engineer developer from Barcelona, Spain</h3>
+<h3 align="center">A passionate Computer vision and Software developer from Barcelona, Spain</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gunjanmimo&label=Profile%20views&color=0e75b6&style=flat" alt="gunjanmimo" /> </p>
 
